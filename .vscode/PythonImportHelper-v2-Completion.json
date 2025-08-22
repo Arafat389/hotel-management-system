@@ -1,0 +1,1203 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "shapely.wkb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shapely.wkb",
+        "description": "shapely.wkb",
+        "detail": "shapely.wkb",
+        "documentation": {}
+    },
+    {
+        "label": "shapely.geometry",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shapely.geometry",
+        "description": "shapely.geometry",
+        "detail": "shapely.geometry",
+        "documentation": {}
+    },
+    {
+        "label": "shapely.ops",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shapely.ops",
+        "description": "shapely.ops",
+        "detail": "shapely.ops",
+        "documentation": {}
+    },
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "ogr",
+        "importPath": "osgeo",
+        "description": "osgeo",
+        "isExtraImport": true,
+        "detail": "osgeo",
+        "documentation": {}
+    },
+    {
+        "label": "osr",
+        "importPath": "osgeo",
+        "description": "osgeo",
+        "isExtraImport": true,
+        "detail": "osgeo",
+        "documentation": {}
+    },
+    {
+        "label": "Grammar",
+        "importPath": "booleano.parser",
+        "description": "booleano.parser",
+        "isExtraImport": true,
+        "detail": "booleano.parser",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluableParseManager",
+        "importPath": "booleano.parser",
+        "description": "booleano.parser",
+        "isExtraImport": true,
+        "detail": "booleano.parser",
+        "documentation": {}
+    },
+    {
+        "label": "SymbolTable",
+        "importPath": "booleano.parser",
+        "description": "booleano.parser",
+        "isExtraImport": true,
+        "detail": "booleano.parser",
+        "documentation": {}
+    },
+    {
+        "label": "Bind",
+        "importPath": "booleano.parser",
+        "description": "booleano.parser",
+        "isExtraImport": true,
+        "detail": "booleano.parser",
+        "documentation": {}
+    },
+    {
+        "label": "Variable",
+        "importPath": "booleano.operations",
+        "description": "booleano.operations",
+        "isExtraImport": true,
+        "detail": "booleano.operations",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0001_initial",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Authorregis',\n            fields=[\n                ('Id', models.AutoField(primary_key=True, serialize=False)),\n                ('Fname', models.CharField(max_length=255)),",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0002_online_booking",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0002_online_booking",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HotelApp', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Online_Booking',\n            fields=[\n                ('Id', models.AutoField(primary_key=True, serialize=False)),\n                ('Check_in', models.CharField(max_length=255)),",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0002_online_booking",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0003_offline_booking",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0003_offline_booking",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HotelApp', '0002_online_booking'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Offline_Booking',\n            fields=[\n                ('Customer_Id', models.AutoField(primary_key=True, serialize=False)),\n                ('Check_in', models.CharField(max_length=255)),",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0003_offline_booking",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0004_add_employee",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0004_add_employee",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HotelApp', '0003_offline_booking'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Add_Employee',\n            fields=[\n                ('Employee_Id', models.CharField(max_length=255, primary_key=True, serialize=False)),\n                ('First_Name', models.CharField(max_length=255)),",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0004_add_employee",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0005_auto_20210713_2205",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0005_auto_20210713_2205",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HotelApp', '0004_add_employee'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='add_employee',\n            name='Email',\n            field=models.CharField(max_length=255, unique=True),\n        ),",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0005_auto_20210713_2205",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0006_add_room",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0006_add_room",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HotelApp', '0005_auto_20210713_2205'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Add_Room',\n            fields=[\n                ('Id', models.AutoField(primary_key=True, serialize=False)),\n                ('Room_Number', models.CharField(max_length=255, unique=True)),",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0006_add_room",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0007_add_salarys",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0007_add_salarys",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('HotelApp', '0006_add_room'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Add_Salarys',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('Employee_Name', models.CharField(max_length=255)),",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.migrations.0007_add_salarys",
+        "documentation": {}
+    },
+    {
+        "label": "HotelappConfig",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.apps",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.apps",
+        "peekOfCode": "class HotelappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'HotelApp'",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Online_Booking_form",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.forms",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.forms",
+        "peekOfCode": "class Online_Booking_form(forms.ModelForm):\n    class Meta:\n        model = models.Online_Booking\n        fields = \"__all__\"\nclass offline_Booking_form(forms.ModelForm):\n    class Meta:\n        model = models.Offline_Booking\n        fields = \"__all__\"\nclass Add_Employee_form(forms.ModelForm):\n    class Meta:",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "offline_Booking_form",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.forms",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.forms",
+        "peekOfCode": "class offline_Booking_form(forms.ModelForm):\n    class Meta:\n        model = models.Offline_Booking\n        fields = \"__all__\"\nclass Add_Employee_form(forms.ModelForm):\n    class Meta:\n        model = models.Add_Employee\n        fields = \"__all__\"\nclass Add_Room_form(forms.ModelForm):\n    class Meta:",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Add_Employee_form",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.forms",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.forms",
+        "peekOfCode": "class Add_Employee_form(forms.ModelForm):\n    class Meta:\n        model = models.Add_Employee\n        fields = \"__all__\"\nclass Add_Room_form(forms.ModelForm):\n    class Meta:\n        model = models.Add_Room\n        fields = \"__all__\"\nclass Add_salary_form(forms.ModelForm):\n    class Meta:",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Add_Room_form",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.forms",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.forms",
+        "peekOfCode": "class Add_Room_form(forms.ModelForm):\n    class Meta:\n        model = models.Add_Room\n        fields = \"__all__\"\nclass Add_salary_form(forms.ModelForm):\n    class Meta:\n        model = models.Add_Salarys\n        fields = \"__all__\"",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Add_salary_form",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.forms",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.forms",
+        "peekOfCode": "class Add_salary_form(forms.ModelForm):\n    class Meta:\n        model = models.Add_Salarys\n        fields = \"__all__\"",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Authorregis",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.models",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.models",
+        "peekOfCode": "class Authorregis(models.Model):\n    Id = models.AutoField(primary_key=True)\n    Fname = models.CharField(max_length=255)\n    Lname = models.CharField(max_length=255)\n    Email = models.CharField(max_length=255,unique=True)\n    Phone_Number = models.IntegerField()\n    Password = models.CharField(max_length=255)\n    Date = models.DateField(auto_now_add=True)\n    Time = models.TimeField(auto_now_add=True)\n    def __str__(self):",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Online_Booking",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.models",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.models",
+        "peekOfCode": "class Online_Booking(models.Model):\n    Id = models.AutoField(primary_key=True)\n    Check_in = models.CharField(max_length=255)\n    Check_out = models.CharField(max_length=255)\n    ADULT = models.CharField(max_length=255)\n    CHILDREN = models.CharField(max_length=255)\n    Name = models.CharField(max_length=255)\n    Surname = models.CharField(max_length=255)\n    Email = models.CharField(max_length=255)\n    Phone_Number = models.IntegerField()",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Offline_Booking",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.models",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.models",
+        "peekOfCode": "class Offline_Booking(models.Model):\n    Customer_Id = models.AutoField(primary_key=True)\n    Check_in = models.CharField(max_length=255)\n    Check_out = models.CharField(max_length=255)\n    First_Name = models.CharField(max_length=255)\n    Last_Name = models.CharField(max_length=255)\n    Email = models.CharField(max_length=255)\n    Mobile_Number = models.IntegerField()\n    ADULT = models.CharField(max_length=255)\n    CHILDREN = models.CharField(max_length=255)",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Add_Employee",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.models",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.models",
+        "peekOfCode": "class Add_Employee(models.Model):\n    Employee_Id = models.CharField(max_length=255,primary_key=True)\n    First_Name = models.CharField(max_length=255)\n    Last_Name = models.CharField(max_length=255)\n    Email = models.CharField(max_length=255,unique=True)\n    Mobile_Number = models.IntegerField(unique=True)\n    Joining_Date = models.CharField(max_length=255)\n    Dateof_Birth = models.CharField(max_length=255)\n    Departments = models.CharField(max_length=255)\n    Gender = models.CharField(max_length=255)",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Add_Room",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.models",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.models",
+        "peekOfCode": "class Add_Room(models.Model):\n    Id = models.AutoField(primary_key=True)\n    Room_Number = models.CharField(max_length=255,unique=True)\n    Room_Type = models.CharField(max_length=255)\n    Room_Floor = models.CharField(max_length=255)\n    Room_Facility = models.CharField(max_length=500)\n    Room_Price = models.CharField(max_length=255)\n    Room_Image = models.ImageField(upload_to='')\n    Date = models.DateField(auto_now_add=True)\n    Time = models.TimeField(auto_now_add=True)",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Add_Salarys",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.models",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.models",
+        "peekOfCode": "class Add_Salarys(models.Model):\n    Employee_Id = models.ForeignKey(Add_Employee,on_delete=models.CASCADE)\n    Employee_Name = models.CharField(max_length=255)\n    Mobile_Number = models.CharField(max_length=255)\n    Email = models.CharField(max_length=500)\n    Departments = models.CharField(max_length=255)\n    Salary = models.CharField(max_length=255)\n    Date = models.DateField(auto_now_add=True)\n    Time = models.TimeField(auto_now_add=True)\n    def __str__(self):",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.urls",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.Home,name=\"Home\"),\n    path('all', views.all),\n    path('OnlineBooking', views.OnlineBooking, name='OnlineBooking'),\n    path('Aothur_login', views.Aothur_login, name='Aothur_login'),\n    path('auth_logout', views.auth_logout, name='auth_logout'),\n    path('Aothur_Reg', views.Aothur_Reg, name='Aothur_Reg'),\n    path('Aothur_Fotpass', views.Aothur_Fotpass, name='Aothur_Fotpass'),\n    path('all_admin', views.all_admin),\n    path('Adminpage', views.Admin, name='Adminpage'),",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Home",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def Home(request):\n    return render(request,'Home.html')\ndef all(request):\n    return render(request,'allinclude.html')\ndef OnlineBooking(request):\n    if request.method == 'POST':\n        upload_image = request.FILES.get('Img')\n        # fname = upload_image.name\n        # with open('E:/Project2/HotelManagementSystem/static/Allfiles/Media/' + fname, 'wb+') as location:\n        #     for ch in upload_image.chunks():",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "all",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def all(request):\n    return render(request,'allinclude.html')\ndef OnlineBooking(request):\n    if request.method == 'POST':\n        upload_image = request.FILES.get('Img')\n        # fname = upload_image.name\n        # with open('E:/Project2/HotelManagementSystem/static/Allfiles/Media/' + fname, 'wb+') as location:\n        #     for ch in upload_image.chunks():\n        #         location.write(ch)\n        MyData = models.Online_Booking()",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "OnlineBooking",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def OnlineBooking(request):\n    if request.method == 'POST':\n        upload_image = request.FILES.get('Img')\n        # fname = upload_image.name\n        # with open('E:/Project2/HotelManagementSystem/static/Allfiles/Media/' + fname, 'wb+') as location:\n        #     for ch in upload_image.chunks():\n        #         location.write(ch)\n        MyData = models.Online_Booking()\n        MyData.Id = request.POST.get('Id')\n        MyData.Check_in = request.POST.get('Check_in')",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Aothur_login",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def Aothur_login(request):\n    # conn = mysql.connector.connect(host='localhost', user='root', password='', database='Hotel_Management_System')\n    if request.method == 'POST':\n        User_email = request.POST.get('Email')\n        User_password = request.POST.get('Password')\n        # cur = conn.cursor()\n        # quer1 = \"select Email,Password from Authority_reg where Email=%s\"\n        # val = (User_email,)\n        # cur.execute(quer1, val)\n        # data = cur.fetchall()",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "auth_logout",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def auth_logout(request):\n    logout(request)\n    return redirect('Home')\ndef Aothur_Reg(request):\n    if request.method == 'POST':\n        Data = models.Authorregis()\n        Data.Fname = request.POST.get('Fname')\n        Data.Lname = request.POST.get('Lname')\n        Data.Email = request.POST.get('Email')\n        Data.Phone_Number = request.POST.get('Phone_Number')",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Aothur_Reg",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def Aothur_Reg(request):\n    if request.method == 'POST':\n        Data = models.Authorregis()\n        Data.Fname = request.POST.get('Fname')\n        Data.Lname = request.POST.get('Lname')\n        Data.Email = request.POST.get('Email')\n        Data.Phone_Number = request.POST.get('Phone_Number')\n        Data.Password = request.POST.get('Password')\n        Con_password = request.POST.get('Con_password')\n        if Data.Password == Con_password:",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Aothur_Fotpass",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def Aothur_Fotpass(request):\n    return render(request,'Author_forgetpass_page.html')\ndef all_admin(request):\n    return render(request,'admin/AdminAllinclude.html')\ndef Admin(request):\n    data = models.Online_Booking.objects.all().order_by('-Id')\n    return render(request,'admin/Admin.html',{'data':data})\ndef Addemployee(request):\n    if request.method == 'POST':\n        upload_image = request.FILES.get('Upload_Image')",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "all_admin",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def all_admin(request):\n    return render(request,'admin/AdminAllinclude.html')\ndef Admin(request):\n    data = models.Online_Booking.objects.all().order_by('-Id')\n    return render(request,'admin/Admin.html',{'data':data})\ndef Addemployee(request):\n    if request.method == 'POST':\n        upload_image = request.FILES.get('Upload_Image')\n        # fname = upload_image.name\n        # with open('E:/Project2/HotelManagementSystem/static/Allfiles/Media/' + fname, 'wb+') as location:",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Admin",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def Admin(request):\n    data = models.Online_Booking.objects.all().order_by('-Id')\n    return render(request,'admin/Admin.html',{'data':data})\ndef Addemployee(request):\n    if request.method == 'POST':\n        upload_image = request.FILES.get('Upload_Image')\n        # fname = upload_image.name\n        # with open('E:/Project2/HotelManagementSystem/static/Allfiles/Media/' + fname, 'wb+') as location:\n        #     for ch in upload_image.chunks():\n        #         location.write(ch)",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Addemployee",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def Addemployee(request):\n    if request.method == 'POST':\n        upload_image = request.FILES.get('Upload_Image')\n        # fname = upload_image.name\n        # with open('E:/Project2/HotelManagementSystem/static/Allfiles/Media/' + fname, 'wb+') as location:\n        #     for ch in upload_image.chunks():\n        #         location.write(ch)\n        if request.method == 'POST':\n            Data = models.Add_Employee()\n            Data.Employee_Id = request.POST.get('Employee_Id')",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Editemployee",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def Editemployee(request,id):\n    data = models.Add_Employee.objects.get(Employee_Id=id)\n    if request.method == 'POST':\n        data = Add_Employee_form(request.POST, request.FILES, instance=data)\n        if data.is_valid():\n            # upload_image = request.FILES.get('Upload_Image')\n            # fname = upload_image.name\n            # with open('E:/Project2/HotelManagementSystem/static/Allfiles/Media/' + fname, 'wb+') as location:\n            #     for ch in upload_image.chunks():\n            #         location.write(ch)",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Allemployee",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def Allemployee(request):\n    if request.method == 'POST':\n        Serch = request.POST.get('search')\n        print(Serch)\n        data = models.Add_Employee.objects.filter(Employee_Id=Serch) or models.Add_Employee.objects.filter(First_Name=Serch)\n        return render(request, 'admin/allemployee.html', {\"data\": data})\n    data = models.Add_Employee.objects.all().order_by('-Employee_Id')\n    return render(request,'admin/allemployee.html',{'data': data})\ndef online_Booking_info(request):\n    if request.method == 'POST':",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "online_Booking_info",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def online_Booking_info(request):\n    if request.method == 'POST':\n        Serch = request.POST.get('search')\n        print(Serch)\n        show = models.Online_Booking.objects.filter(Country =Serch) or models.Online_Booking.objects.filter(Name=Serch)\n        return render(request,'admin/Online_Booking.html',{\"data\":show})\n    data = models.Online_Booking.objects.all().order_by('-Id')\n    return render(request,'admin/Online_Booking.html',{'data':data})\ndef Edit_online_Booking(request,id):\n    data = models.Online_Booking.objects.get(Id=id)",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Edit_online_Booking",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def Edit_online_Booking(request,id):\n    data = models.Online_Booking.objects.get(Id=id)\n    if request.method == 'POST':\n        data = Online_Booking_form(request.POST, request.FILES, instance=data)\n        if data.is_valid():\n            # upload_image = request.FILES.get('Img')\n            # fname = upload_image.name\n            # with open('E:/Project2/HotelManagementSystem/static/Allfiles/Media/' + fname, 'wb+') as location:\n            #     for ch in upload_image.chunks():\n            #         location.write(ch)",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AddCustomer",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def AddCustomer(request):\n    if request.method == 'POST':\n        upload_image = request.FILES.get('Upload_Image')\n        # fname = upload_image.name\n        # with open('E:/Project2/HotelManagementSystem/static/Allfiles/Media/' + fname, 'wb+') as location:\n        #     for ch in upload_image.chunks():\n        #         location.write(ch)\n        if request.method == 'POST':\n            Data = models.Offline_Booking()\n            Data.Customer_Id = request.POST.get('Customer_Id')",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AllCustomer",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def AllCustomer(request):\n    if request.method == 'POST':\n        Serch = request.POST.get('search')\n        print(Serch)\n        data = models.Offline_Booking.objects.filter(First_Name=Serch) or models.Offline_Booking.objects.filter( Email=Serch)\n        return render(request, 'admin/AllCustomer.html', {\"data\": data})\n    data = models.Offline_Booking.objects.all().order_by('-Customer_Id')\n    return render(request,'admin/AllCustomer.html',{'data': data})\ndef EditCustomer(request,id):\n    data = models.Offline_Booking.objects.get(Customer_Id=id)",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "EditCustomer",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def EditCustomer(request,id):\n    data = models.Offline_Booking.objects.get(Customer_Id=id)\n    if request.method == 'POST':\n        data = offline_Booking_form(request.POST, request.FILES, instance=data)\n        if data.is_valid():\n            # upload_image = request.FILES.get('Upload_Image')\n            # fname = upload_image.name\n            # with open('E:/Project2/HotelManagementSystem/static/Allfiles/Media/' + fname, 'wb+') as location:\n            #     for ch in upload_image.chunks():\n            #         location.write(ch)",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Delete",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def Delete(request,id):\n    data = models.Online_Booking.objects.get(Id=id)\n    data.delete()\n    return redirect('online_Booking_info')\ndef Search(request):\n    if request.method == 'POST':\n        Serch = request.POST.get('serch')\n        print(Serch)\n        data = models.Offline_Booking.objects.filter(First_Name=Serch) or models.Offline_Booking.objects.filter(Email=Serch)\n        return render(request, 'admin/AddCustomer.html', {\"data\": data})",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Search",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def Search(request):\n    if request.method == 'POST':\n        Serch = request.POST.get('serch')\n        print(Serch)\n        data = models.Offline_Booking.objects.filter(First_Name=Serch) or models.Offline_Booking.objects.filter(Email=Serch)\n        return render(request, 'admin/AddCustomer.html', {\"data\": data})\ndef AddCustpage_Delete(request,id):\n    data = models.Offline_Booking.objects.get(Customer_Id=id)\n    data.delete()\n    return redirect('AddCustomer')",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AddCustpage_Delete",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def AddCustpage_Delete(request,id):\n    data = models.Offline_Booking.objects.get(Customer_Id=id)\n    data.delete()\n    return redirect('AddCustomer')\ndef AllCustpage_Delete(request,id):\n    data = models.Offline_Booking.objects.get(Customer_Id=id)\n    data.delete()\n    return redirect('AllCustomer')\ndef AddEmplopage_Delete(request,id):\n    data = models.Add_Employee.objects.get(Employee_Id=id)",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AllCustpage_Delete",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def AllCustpage_Delete(request,id):\n    data = models.Offline_Booking.objects.get(Customer_Id=id)\n    data.delete()\n    return redirect('AllCustomer')\ndef AddEmplopage_Delete(request,id):\n    data = models.Add_Employee.objects.get(Employee_Id=id)\n    data.delete()\n    return redirect('Addemployee')\ndef Add_Employee_Search(request):\n    if request.method == 'POST':",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AddEmplopage_Delete",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def AddEmplopage_Delete(request,id):\n    data = models.Add_Employee.objects.get(Employee_Id=id)\n    data.delete()\n    return redirect('Addemployee')\ndef Add_Employee_Search(request):\n    if request.method == 'POST':\n        Serch = request.POST.get('serch')\n        print(Serch)\n        data = models.Add_Employee.objects.filter(Employee_Id=Serch) or models.Add_Employee.objects.filter(First_Name=Serch)\n        return render(request,'admin/addemployee.html', {\"data\": data})",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Add_Employee_Search",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def Add_Employee_Search(request):\n    if request.method == 'POST':\n        Serch = request.POST.get('serch')\n        print(Serch)\n        data = models.Add_Employee.objects.filter(Employee_Id=Serch) or models.Add_Employee.objects.filter(First_Name=Serch)\n        return render(request,'admin/addemployee.html', {\"data\": data})\ndef AllEmployee_Delete(request,id):\n    data = models.Add_Employee.objects.get(Employee_Id=id)\n    data.delete()\n    return redirect('Allemployee')",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AllEmployee_Delete",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def AllEmployee_Delete(request,id):\n    data = models.Add_Employee.objects.get(Employee_Id=id)\n    data.delete()\n    return redirect('Allemployee')\ndef Add_room(request):\n    if request.method == 'POST':\n        upload_image = request.FILES.get('Room_Image')\n        # fname = upload_image.name\n        # with open('E:/Project2/HotelManagementSystem/static/Allfiles/Media/' + fname, 'wb+') as location:\n        #     for ch in upload_image.chunks():",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Add_room",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def Add_room(request):\n    if request.method == 'POST':\n        upload_image = request.FILES.get('Room_Image')\n        # fname = upload_image.name\n        # with open('E:/Project2/HotelManagementSystem/static/Allfiles/Media/' + fname, 'wb+') as location:\n        #     for ch in upload_image.chunks():\n        #         location.write(ch)\n        if request.method == 'POST':\n            Data = models.Add_Room()\n            Data.Room_Number = request.POST.get('Room_Number')",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Add_Room_Search",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def Add_Room_Search(request):\n    if request.method == 'POST':\n        Serch = request.POST.get('serch')\n        print(Serch)\n        data = models.Add_Room.objects.filter(Room_Number=Serch) or models.Add_Rooms.objects.filter(Room_Type=Serch)\n        return render(request, 'admin/AddRoom.html',{\"data\": data})\ndef AddRooms_Delete(request,id):\n    data = models.Add_Room.objects.get(Id=id)\n    data.delete()\n    return redirect('Add_room')",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AddRooms_Delete",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def AddRooms_Delete(request,id):\n    data = models.Add_Room.objects.get(Id=id)\n    data.delete()\n    return redirect('Add_room')\ndef EditRooms(request,id):\n    data = models.Add_Room.objects.get(Id=id)\n    if request.method == 'POST':\n        data = Add_Room_form(request.POST, request.FILES, instance=data)\n        if data.is_valid():\n            # upload_image = request.FILES.get('Room_Image')",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "EditRooms",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def EditRooms(request,id):\n    data = models.Add_Room.objects.get(Id=id)\n    if request.method == 'POST':\n        data = Add_Room_form(request.POST, request.FILES, instance=data)\n        if data.is_valid():\n            # upload_image = request.FILES.get('Room_Image')\n            # fname = upload_image.name\n            # with open('E:/Project2/HotelManagementSystem/static/Allfiles/Media/' + fname, 'wb+') as location:\n            #     for ch in upload_image.chunks():\n            #         location.write(ch)",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "All_Room",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def All_Room(request):\n    if request.method == 'POST':\n        Serch = request.POST.get('search')\n        print(Serch)\n        data = models.Add_Room.objects.filter(Room_Number=Serch) or models.Add_Room.objects.filter(Room_Type=Serch)\n        return render(request, 'admin/AllRooms.html',{\"data\": data})\n    data = models.Add_Room.objects.all().order_by('-Id')\n    return render(request, 'admin/AllRooms.html',{'data': data})\ndef AllRooms_Delete(request,id):\n    data = models.Add_Room.objects.get(Id=id)",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AllRooms_Delete",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def AllRooms_Delete(request,id):\n    data = models.Add_Room.objects.get(Id=id)\n    data.delete()\n    return redirect('All_Room')\ndef AddEmployeeSalary(request):\n    if request.method == 'POST':\n        if request.method == 'POST':\n            Data = models.Add_Salarys()\n            Data.Employee_Id = request.POST.get('Employee_Id')\n            Data.Employee_Name = request.POST.get('Employee_Name')",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AddEmployeeSalary",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def AddEmployeeSalary(request):\n    if request.method == 'POST':\n        if request.method == 'POST':\n            Data = models.Add_Salarys()\n            Data.Employee_Id = request.POST.get('Employee_Id')\n            Data.Employee_Name = request.POST.get('Employee_Name')\n            Data.Email = request.POST.get('Email ')\n            Data.Mobile_Number = request.POST.get('Mobile_Number')\n            Data.Departments = request.POST.get('Departments')\n            Data.Salary = request.POST.get('Salary')",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeShow",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "peekOfCode": "def EmployeeShow(request):\n    return render(request, 'admin/EmployeeShow.html')",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.asgi",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-dev&h09slzzbp!j(f^_lsen+afmt_&cnl96uus15mqnjc68)60'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-dev&h09slzzbp!j(f^_lsen+afmt_&cnl96uus15mqnjc68)60'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'HotelApp'",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'HotelApp'\n]\nMIDDLEWARE = [",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'HotelManagementSystem.urls'",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "ROOT_URLCONF = 'HotelManagementSystem.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / 'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / 'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'HotelManagementSystem.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME':  'Project_hotel',\n    }\n}\n# Password validation",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME':  'Project_hotel',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS =[\n  os.path.join (BASE_DIR / 'static')",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "TIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS =[\n  os.path.join (BASE_DIR / 'static')\n]",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS =[\n  os.path.join (BASE_DIR / 'static')\n]\nSTATIC_ROOT = os.path.join (BASE_DIR,'assets')",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS =[\n  os.path.join (BASE_DIR / 'static')\n]\nSTATIC_ROOT = os.path.join (BASE_DIR,'assets')\nMEDIA_ROOT = os.path.join (BASE_DIR,'static/Media')",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS =[\n  os.path.join (BASE_DIR / 'static')\n]\nSTATIC_ROOT = os.path.join (BASE_DIR,'assets')\nMEDIA_ROOT = os.path.join (BASE_DIR,'static/Media')\nMEDIA_URL = '/Media/'",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS =[\n  os.path.join (BASE_DIR / 'static')\n]\nSTATIC_ROOT = os.path.join (BASE_DIR,'assets')\nMEDIA_ROOT = os.path.join (BASE_DIR,'static/Media')\nMEDIA_URL = '/Media/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "STATIC_ROOT = os.path.join (BASE_DIR,'assets')\nMEDIA_ROOT = os.path.join (BASE_DIR,'static/Media')\nMEDIA_URL = '/Media/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join (BASE_DIR,'static/Media')\nMEDIA_URL = '/Media/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "MEDIA_URL = '/Media/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.urls",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('HotelApp.urls'))\n]\nif settings.DEBUG:\n        urlpatterns += static(settings.MEDIA_URL,\n                              document_root=settings.MEDIA_ROOT)",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.wsgi",
+        "description": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Django_practice_Pro_hotel_management_system-main.HotelManagementSystem.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "JQVMap",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "description": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "peekOfCode": "class JQVMap:\n  def __init__(self, name, language):\n    self.paths = {}\n    self.name = name\n    self.language = language\n    self.width = 0\n    self.height = 0\n    self.bbox = []\n  def addPath(self, path, code, name):\n    self.paths[code] = {\"path\": path, \"name\": name}",
+        "detail": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "documentation": {}
+    },
+    {
+        "label": "Converter",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "description": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "peekOfCode": "class Converter:\n  def __init__(self, config):\n    args = {\n      'buffer_distance': -0.4,\n      'simplify_tolerance': 0.2,\n      'longitude0': 0,\n      'projection': 'mill',\n      'name': 'world',\n      'width': 900,\n      'left': 0,",
+        "detail": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "documentation": {}
+    },
+    {
+        "label": "Geometry",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "description": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "peekOfCode": "class Geometry:\n  def __init__(self, geometry, properties):\n    self.geom = geometry\n    self.properties = properties\nclass GeometryProperty(Variable):\n  operations = set([\"equality\", \"membership\"])\n  def __init__(self, name):\n    self.name = name\n  def equals(self, value, context):\n    return context[self.name] == value",
+        "detail": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "documentation": {}
+    },
+    {
+        "label": "GeometryProperty",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "description": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "peekOfCode": "class GeometryProperty(Variable):\n  operations = set([\"equality\", \"membership\"])\n  def __init__(self, name):\n    self.name = name\n  def equals(self, value, context):\n    return context[self.name] == value\n  def belongs_to(self, value, context):\n    return value in context[self.name]\n  def is_subset(self, value, context):\n    return set(value).issubset(set(context[self.name]))",
+        "detail": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "documentation": {}
+    },
+    {
+        "label": "DataSource",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "description": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "peekOfCode": "class DataSource:\n  def __init__(self, config):\n    default_config = {\n      \"projection\": \"merc\",\n      \"longitude0\": 0\n    }\n    default_config.update(config)\n    self.config = default_config\n    self.spatialRef = osr.SpatialReference()\n    projString = '+proj='+str(self.config['projection'])+' +a=6381372 +b=6381372 +lat_0=0'",
+        "detail": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "documentation": {}
+    },
+    {
+        "label": "PolygonSimplifier",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "description": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "peekOfCode": "class PolygonSimplifier:\n  def __init__(self, geometries):\n    self.format = '%.8f %.8f'\n    self.tolerance = 0.05\n    self.geometries = geometries\n    connections = {}\n    counter = 0\n    for geom in geometries:\n      counter += 1\n      polygons = []",
+        "detail": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "documentation": {}
+    },
+    {
+        "label": "Processor",
+        "kind": 6,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "description": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "peekOfCode": "class Processor:\n  def __init__(self, config):\n    self.config = config\n  def process(self):\n    self.data_sources = {}\n    for action in self.config:\n      getattr(self, action['name'])( action, self.data_sources.get(\".\") )\n  def read_data(self, config, data_source):\n    self.data_sources[\".\"] = DataSource( config )\n    self.data_sources[\".\"].load_data()",
+        "detail": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "description": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "peekOfCode": "args = {}\nif len(sys.argv) > 1:\n  paramsJson = open(sys.argv[1], 'r').read()\nelse:\n  paramsJson = sys.stdin.read()\nparamsJson = json.loads(paramsJson)\nprocessor = Processor(paramsJson)\nprocessor.process()",
+        "detail": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "documentation": {}
+    },
+    {
+        "label": "paramsJson",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "description": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "peekOfCode": "paramsJson = json.loads(paramsJson)\nprocessor = Processor(paramsJson)\nprocessor.process()",
+        "detail": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "documentation": {}
+    },
+    {
+        "label": "processor",
+        "kind": 5,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "description": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "peekOfCode": "processor = Processor(paramsJson)\nprocessor.process()",
+        "detail": "Django_practice_Pro_hotel_management_system-main.static.Allfiles.vendors.jqvmap.create.jqvmap",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Django_practice_Pro_hotel_management_system-main.manage",
+        "description": "Django_practice_Pro_hotel_management_system-main.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'HotelManagementSystem.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "Django_practice_Pro_hotel_management_system-main.manage",
+        "documentation": {}
+    }
+]
